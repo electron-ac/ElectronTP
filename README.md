@@ -1,6 +1,6 @@
 # Electron Trigger Protector
 
-A easy-to use open-source resource to protect your server's events.
+A easy-to use open-source resource to protect your FiveM server's events.
 
 ## How it works
 
