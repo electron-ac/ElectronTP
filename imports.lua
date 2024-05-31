@@ -46,7 +46,7 @@ if IsDuplicityVersion() then
             if key ~= sharedKey then
 
                 if Config.ElectronACIntegration then
-                    TriggerEvent("ElectronAC:BanPlayer", source, "TriggerProtector","Tried to exploid event: "..name)
+                    TriggerEvent("ElectronAC:BanPlayer", source, "TriggerProtector","Tried to exploit event: "..name)
                 else
 
                     if Config.log then
