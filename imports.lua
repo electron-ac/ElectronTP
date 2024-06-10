@@ -55,7 +55,6 @@ if IsDuplicityVersion() then
                     end
 
                 end
-                return
             else
                 cb(...)
             end
