@@ -7,6 +7,12 @@ A easy-to use open-source resource to protect your FiveM server's events.
 When you create a new trigger with, RegisterNetEventSecured, the name of the trigger will be randomized/abscoured.
 When triggering it with TriggerServerEventSecured, there will also be a randomized number attached, this makes it more difficult to execute triggers from menu's.
 
+```lua
+TriggerServerEvent -> TriggerServerEventSecured
+RegisterNetEvent -> RegisterNetEventSecured
+AddEventHandler -> AddEventHandlerSecured 
+```
+
 # How to use
 
 https://docs.electron-ac.com/trigger-protector/usage
