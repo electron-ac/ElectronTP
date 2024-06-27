@@ -12,6 +12,8 @@ TriggerServerEvent -> TriggerServerEventSecured
 RegisterNetEvent -> RegisterNetEventSecured
 AddEventHandler -> AddEventHandlerSecured 
 ```
+# IMportant note
+ElectronTP **needs** to be started berfore other scripts try to use it.
 
 # How to use
 
