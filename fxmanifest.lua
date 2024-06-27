@@ -23,11 +23,6 @@ files {
     "imports.lua",
 }
 
-shared_scripts {
-    "src/shared/*.lua",
-    "src/shared/*.js",
-}
-
 client_scripts {
     "src/client/*.lua",
     "src/client/*.js"
@@ -35,8 +30,6 @@ client_scripts {
 
 server_scripts {
     "config.lua",
-    "config.js",
     "src/server/*.lua",
     "src/server/*.js",
-
 }
